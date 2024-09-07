@@ -1,0 +1,37 @@
+# Core Django and REST framework
+Django
+djangorestframework
+
+# WSGI server for production
+gunicorn
+
+# PostgreSQL database adapter
+psycopg2-binary
+
+# Environment variables management
+python-dotenv
+
+# CORS headers for handling cross-origin requests
+django-cors-headers
+
+# Security package for handling common vulnerabilities
+django-secure
+
+# Static files management
+whitenoise
+
+# Utility for managing time zones
+pytz
+
+# Common Python utility libraries
+requests  # For making HTTP requests
+celery    # For background task processing (optional)
+
+# Linting and code style
+flake8  # For code linting and style checks
+
+# Testing packages
+pytest
+pytest-django
+
+ipython
